@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/1101-id-tododemo/static/css/main.ff5bf265.chunk.css",
-    "main.js": "/1101-id-tododemo/static/js/main.b83dcd1d.chunk.js",
-    "main.js.map": "/1101-id-tododemo/static/js/main.b83dcd1d.chunk.js.map",
-    "runtime-main.js": "/1101-id-tododemo/static/js/runtime-main.a0e5b820.js",
-    "runtime-main.js.map": "/1101-id-tododemo/static/js/runtime-main.a0e5b820.js.map",
-    "static/js/2.4bf7a3ea.chunk.js": "/1101-id-tododemo/static/js/2.4bf7a3ea.chunk.js",
-    "static/js/2.4bf7a3ea.chunk.js.map": "/1101-id-tododemo/static/js/2.4bf7a3ea.chunk.js.map",
-    "static/js/3.d4d33f1a.chunk.js": "/1101-id-tododemo/static/js/3.d4d33f1a.chunk.js",
-    "static/js/3.d4d33f1a.chunk.js.map": "/1101-id-tododemo/static/js/3.d4d33f1a.chunk.js.map",
-    "index.html": "/1101-id-tododemo/index.html",
-    "static/css/main.ff5bf265.chunk.css.map": "/1101-id-tododemo/static/css/main.ff5bf265.chunk.css.map",
-    "static/js/2.4bf7a3ea.chunk.js.LICENSE.txt": "/1101-id-tododemo/static/js/2.4bf7a3ea.chunk.js.LICENSE.txt"
+    "main.css": "/1101-209410215-tododemo2/static/css/main.ff5bf265.chunk.css",
+    "main.js": "/1101-209410215-tododemo2/static/js/main.b83dcd1d.chunk.js",
+    "main.js.map": "/1101-209410215-tododemo2/static/js/main.b83dcd1d.chunk.js.map",
+    "runtime-main.js": "/1101-209410215-tododemo2/static/js/runtime-main.f544c3b0.js",
+    "runtime-main.js.map": "/1101-209410215-tododemo2/static/js/runtime-main.f544c3b0.js.map",
+    "static/js/2.4bf7a3ea.chunk.js": "/1101-209410215-tododemo2/static/js/2.4bf7a3ea.chunk.js",
+    "static/js/2.4bf7a3ea.chunk.js.map": "/1101-209410215-tododemo2/static/js/2.4bf7a3ea.chunk.js.map",
+    "static/js/3.d4d33f1a.chunk.js": "/1101-209410215-tododemo2/static/js/3.d4d33f1a.chunk.js",
+    "static/js/3.d4d33f1a.chunk.js.map": "/1101-209410215-tododemo2/static/js/3.d4d33f1a.chunk.js.map",
+    "index.html": "/1101-209410215-tododemo2/index.html",
+    "static/css/main.ff5bf265.chunk.css.map": "/1101-209410215-tododemo2/static/css/main.ff5bf265.chunk.css.map",
+    "static/js/2.4bf7a3ea.chunk.js.LICENSE.txt": "/1101-209410215-tododemo2/static/js/2.4bf7a3ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0e5b820.js",
+    "static/js/runtime-main.f544c3b0.js",
     "static/js/2.4bf7a3ea.chunk.js",
     "static/css/main.ff5bf265.chunk.css",
     "static/js/main.b83dcd1d.chunk.js"
